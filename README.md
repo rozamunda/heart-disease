@@ -1,4 +1,4 @@
-# heart-disease — Risk Factors & Exercise Signals (UCI Cleveland, N=303)
+# Heart-Disease Signals
 
 This project investigates which patient factors are most associated with a heart disease diagnosis (**presence** vs **absence**) in a clinical evaluation dataset (Cleveland Clinic Foundation; UCI Heart Disease — Cleveland data).
 
